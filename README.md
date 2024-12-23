@@ -7,8 +7,8 @@
 7. [Practical 7](https://aad-practicals-825v4tsukagquwylx5trre.streamlit.app/)
 8. [Practical 8](https://aad-practicals-zseejuoptrpmkngqek5kiv.streamlit.app/)
 9. [Practical 9](https://aad-practicals-oj2hrrkvaempavmaphvmtx.streamlit.app/)
-10. [Practical 10](https://yourusername-streamlitapp-practical10.streamlit.app)
-11. [Practical 11](https://yourusername-streamlitapp-practical10.streamlit.app)
+10. [Practical 10](https://aad-practicals-8apukbkpmugffurqhfojjn.streamlit.app/)
+11. [Practical 11](https://aad-practicals-sdy2i4s2rs8ku9m5wgngz2.streamlit.app/)
 12. [Practical 12](https://aad-practicals-yc4zf9lnmvpy7c9kea5y3b.streamlit.app/)
 
 
