@@ -1,5 +1,5 @@
 1. [Practical 1](https://darshan-aad-practs.streamlit.app/)
-2. [Practical 2](https://yourusername-streamlitapp-practical2.streamlit.app)
+2. [Practical 2](https://darshan-aad-pract2.streamlit.app/)
 3. [Practical 3](https://yourusername-streamlitapp-practical3.streamlit.app)
 4. [Practical 4](https://yourusername-streamlitapp-practical4.streamlit.app)
 5. [Practical 5](https://yourusername-streamlitapp-practical5.streamlit.app)
